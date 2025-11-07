@@ -1,6 +1,8 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Venkatesh2304/myerpv2-backend
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Venkatesh2304/myerpv2-frontend
+	branch = main
