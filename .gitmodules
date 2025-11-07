@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = git@github.com:Venkatesh2304/myerpv2-backend.git
+	url = https://github.com/Venkatesh2304/myerpv2-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = git@github.com:Venkatesh2304/myerpv2-frontend.git
+	url = https://github.com/Venkatesh2304/myerpv2-frontend.git
